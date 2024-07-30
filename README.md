@@ -1,24 +1,22 @@
 # Midas
 
-Comparador de preços de produtos de supermercados.
+<p>Comparador de preços de produtos de supermercados.</p>
 
 ## Os repositórios do projeto midas
 
-[SNS Publisher](https://github.com/aninhabort/sns-publisher)
-
-[Scrapper Data](https://github.com/aninhabort/scrapper-data)
-
-[Save Data](https://github.com/aninhabort/save-data)
+<a href="https://github.com/aninhabort/sns-publisher">SNS Publisher<a>
+<a href="https://github.com/aninhabort/scrapper-data">Scrapper Data<a>
+<a href="https://github.com/aninhabort/save-data">Save Data<a>
 
 ## Imagens 
-Tópicos SNS
+<p>Tópicos SNS</p>
 <img src="./imgs/sns-topicos.png" alt="Tópicos SNS" />
 
-Filas SQS
+<p>Filas SQS</p>
 <img src="./imgs/sqs-filas.png" alt="Filas SQS" />
 
-Lamdba Function
+<p>Lamdba Function</p>
 <img src="./imgs/lambda-funcoes.png" alt="Funções Lambda" />
 
-Render
+<p>Render</p>
 <img src="./imgs/render.png" alt="Render" />

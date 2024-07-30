@@ -19,3 +19,6 @@ Filas SQS
 
 Lamdba Function
 <img src="./imgs/lambda-funcoes.png" alt="Funções Lambda" />
+
+Render
+<img src="./imgs/render.png" alt="Render" />
